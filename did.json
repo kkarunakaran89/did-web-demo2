@@ -1,0 +1,18 @@
+{
+  "id": "did:web:kkarunakaran89.github.io:did-web-demo2",
+  "assertionMethod": [
+    {
+      "id": "did:web:kkarunakaran89.github.io:did-web-demo2#7a7e52d00bcfc8374174634fd474e2aa2c1d81f4db7a7d512456ad23989d076d",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:kkarunakaran89.github.io:did-web-demo2",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "crv": "P-384",
+        "x": "MKmMD9VW4BN52L2wB1WX_Fj_K4UqOSv-ztBfGoJSIm53jfwgn6yIadT7rZG6reVg",
+        "y": "iCI3klRCwaGhWhMdAuZxCQlcW2e3IlT_ed12ABa64j8eqA8GEPXuP_Fg3Gyx8orV",
+        "kid": "#7a7e52d00bcfc8374174634fd474e2aa2c1d81f4db7a7d512456ad23989d076d",
+        "alg": "ES384"
+      }
+    }
+  ]
+}
